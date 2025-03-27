@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Tektur:wght@400..900&display=swap');
+
+body{
+    background-image: url("https://woorise.com/wp-content/uploads/2021/03/Online-event-registration.png");
+    font-family: "Playfair Display", serif;
+}
+h2{
+    border-style: groove;
+    height: 35px;
+    width: 500px;
+    border-radius: 5px;
+}
+.App{
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    text-align: center;
+}
+*{
+    margin: 10px;
+    font-size: 15px;
+    color:black
+    
+}
+form{
+    align-items: center;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+  
+  
